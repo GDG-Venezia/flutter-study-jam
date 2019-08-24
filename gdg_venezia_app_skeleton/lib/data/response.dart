@@ -17,4 +17,6 @@ class Response<T> {
   Response.loading(this.message) : status = Status.LOADING;
 
   Response.error(this.message) : status = Status.ERROR;
+
+  Response.none() : status = Status.NONE;
 }

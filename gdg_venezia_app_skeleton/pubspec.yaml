@@ -46,6 +46,18 @@ flutter:
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
+  assets:
+    - assets/social/facebook.png
+    - assets/social/github.png
+    - assets/social/instagram.png
+    - assets/social/mail.png
+    - assets/social/meetup.png
+    - assets/social/pbcopy
+    - assets/social/telegram.png
+    - assets/social/twitter.png
+    - assets/social/youtube.png
+    - assets/gdg_logo.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

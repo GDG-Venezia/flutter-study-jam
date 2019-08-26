@@ -5,10 +5,10 @@ import 'package:gdg_venezia_app_skeleton/data/entities/photo.dart';
 import 'package:gdg_venezia_app_skeleton/data/entities/social.dart';
 import 'package:gdg_venezia_app_skeleton/data/entities/team_member.dart';
 
-// A Mock repository that returns hardcoded data
+/// A Mock repository that returns hardcoded data
 class MockRepository extends Repository {
-  // Implementation of the Singleton. The factory keyword provides a construct
-  // that doesn't always create a new instance of the class
+  /// Implementation of the Singleton. The factory keyword provides a construct
+  /// that doesn't always create a new instance of the class
   static final MockRepository _repository = new MockRepository._internal();
 
   factory MockRepository() {

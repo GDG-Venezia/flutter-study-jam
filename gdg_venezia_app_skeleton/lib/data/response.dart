@@ -1,7 +1,7 @@
 import 'package:gdg_venezia_app_skeleton/data/status.dart';
 
-// Handler for the response of a generic request.
-// With the status we can render the view accordingly
+/// Handler for the response of a generic request.
+/// With the status we can render the view accordingly
 class Response<T> {
   // The status of the request
   Status status;

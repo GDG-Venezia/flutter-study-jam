@@ -16,7 +16,7 @@ An example that shows how to develop a list view with custom cells.
 The skeleton of the app that will be developed during the codelab. More information about the structure of the application are available in the project README.
 
 ## Slide
-The slide of the Study Jam will be available soon.
+[http://bit.ly/flutter-study-jam-slide](http://bit.ly/flutter-study-jam-slide)
 
 
 

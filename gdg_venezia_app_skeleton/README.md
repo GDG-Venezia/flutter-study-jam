@@ -1,16 +1,40 @@
-# gdg_venezia_app_skeleton
+# GDG Venezia App Skeleton
 
-A new Flutter project.
+This the skeleton of a Flutter App that will be during the Flutter Study Jam of the GDG Venezia
 
-## Getting Started
+Please refer to the [Slides](http://bit.ly/flutter-study-jam-slide) for the wireframes and for the detail about the study jam
 
-This project is a starting point for a Flutter application.
+## Instruction
 
-A few resources to get you started if this is your first Flutter project:
+The business logic of this skeleton is already implemented. All the widgets that must be edited can be found in the package `lib/ui`:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- `about_screen.dart`
+- `event_screen.dart`
+- `photo_screen.dart`
+- `social_screen.dart`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In each widget, there are three methods to implement, that correspond to what is rendered respectively: 
+- when the data are loading
+```
+ Widget buildLoader() {
+    // TODO: implement a better looking loader
+    return Center(
+      child: Text("Loading"),
+    );
+  }
+```
+- when the loading is completed
+```
+  Widget buildContent(About about) {
+    // TODO: implement the about view
+    return Center(child: Text(about.toString()));
+  }
+```
+- and when there is an error:
+
+```
+  Widget buildErrorView() {
+    // TODO: implement an error screen
+    return Center();
+  }
+```

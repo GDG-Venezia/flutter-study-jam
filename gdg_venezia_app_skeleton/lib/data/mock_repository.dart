@@ -43,7 +43,7 @@ class MockRepository extends Repository {
       TeamMember(
           firstName: "Andrea",
           lastName: "Maglie",
-          pictureUrl: "",
+          pictureUrl: "https://lh3.googleusercontent.com/yBO7CRJ5oHduGdIQDAhxwL_WI-N71bnQk9_ZsXZldfdrkOZF58UQqk8nhEwzdoYu6RwjNiex3kke4DCMxToPm7LVcoOHpgNRVBMdz8ihayuaITwmsCVQrnngS0dgMfNC-c7XXRFspzqGoG0uM0aJA4PiM0nILrtXVaf5bpPeJ-XA91OP46RoOiBdAOyso55yCbT8BVxMu9g8TCk7azAkr-IzV8bUWEfKzhS5CJ8-IlD3fKfnZeIv3_uJsekquTpiagshAoKAwj7WvYTb7A4x1qnBraA4ZeJQZsij4wfyWboSAtYu5c8mLsyzFzg2ObPlEoI3wf-tVCgPxZbMdWmVPmx4YbZw4wcqqdRVYMWhl9wHIhuwLP5fz77o_ITIcxO7uB8fAMts28uWfcjZtR-J1BbrmQs3CWUK5u_VK1ncUWbxHyh8QDL0jVhhFClw3DuqExI8A1CLHIbwAObYPUA45mml7oVsluymeNtcZgsx_uI_cToQavsuFf8qiu7X7MZVeTbL5pHUlOgM1yEFlErvW2MscefF1Y6jV2Y4F4D0Di6XXAk4IVRi--M7xqKgApprdxKRjdxoZTI8DI5SpSnMhtleqo38-fNDc_3x0Oxa_3cm9PlOa4nhDwdCEANlR4CIbvUpvdZ3I-0A9b_upASjSdhWRDH15xybC5eKS7dg4SfWXOlAE7px8Iw=s370-no",
           shortDescription:
               "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
           longDescription:
@@ -53,7 +53,7 @@ class MockRepository extends Repository {
       TeamMember(
           firstName: "Marco",
           lastName: "Gomiero",
-          pictureUrl: "",
+          pictureUrl: "https://lh3.googleusercontent.com/i9D8KEWyw_AXuFj1GMcDbYV5Aml6mZGsN2HYjx_KNZwXIQIZndK2ochLkp1R95K8VujKHJA0vhDv0SEzIQiabbnVNq39qjGQHYsMRKKlQJ9V6LtK-px2f7UZuAWUobFXF9LiFQibBawPEun7rAg03HTQNOJsWUJ8WsLhyFn5nFXhvHdviZpQ_jZfcE7T3az67lY5HkXPjdFKh6TqVusuAXLlIHYwyYTMARWkHeKcIuhEyvqf_WYZR8q7LnZwFakpeQl6NpBz7DG_AnCiNAeuiMHxiHrURhIpq_nnuWSvbGpJTsU69UBJqz6BkMJN_GVuZAigAgj-8HZnqleHALs6pYsPEM90NKWq-ljjpR3KoQEhVVgE9FSEb3RQ_H9lGcgJpFFxsJL_ifJa9TbPJonqIcQaV8ULCnaLeMOg-i1N-ugjBKTTyKwbn4FN82mD1NjlxbEak5OikXPY6lgfgcsxF0lVda9keIqeQ32RyPCZo-yvTSbeLWpPgTXnaVWCyxsa5ohUcSpJpHAD8PDsjL5yjjbjr1sgFwHtUR_hhDRlL_IMtl4-QCBO2aqXHNJNCAu08cvGISE_aeqhBEKgJMfcdMSpukByuTQD3tH-1W8melrymGKei_C5geelS2l-5zdF1DojiVXT-2WaiEmOv9T6HAeSGqHNteaAn8p7xWv_YYtm-PKthNOqFXE=w871-h867-no",
           shortDescription: "Lorem ipsum",
           longDescription:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
@@ -62,7 +62,7 @@ class MockRepository extends Repository {
       TeamMember(
           firstName: "Simone",
           lastName: "Formica",
-          pictureUrl: "",
+          pictureUrl: "https://lh3.googleusercontent.com/iAKMH0Sc49SXMs9QNwtVBdD_X8e5VpnVzW94vCYcl8qgMxVCq6w5n9xrH6VKjZv_A-I52CgaXkCly_SS0_82kw6c3NlvbsEmaBmwkiTULDAfB3cjj0xV0NXl-2zC-wBRO9NEWeKGpL0ucFDbqeRmZoLWLPKYuwUpRlytVdv0c0HUW4YVWuw4OPPeZyBJDdI66Yzgwk3GTQQoEj_xQaSX1gYqPURilHQT-Z4CqEekpCQaBNhl0v0JC3KcAPoH9Ej30Z1V6C0rHh3aUIkGC7qc-RqBSf2NQz9v8qxbwFaFXfVHXERTkrdmXrXQWdA0VUKZLc0trvIPOKXWFLHfb3gO5qyVe59XGT_eQEtRoD29dDFg4A0kGr4t4IcXuZWXJATbrzVmBzcV076aoCP2PgxgZBHemVz6HH1AtFF__mr44VOeFoF1r7zZFWoJkvazGtH_yaiq1pqN1R1vG1cjoTubrk4aa-qVqDI-kZnk1rlItmr29etk_27PMFgD8NaACA6Wye13hJJXdMUl0V-G_CfgAr-lutILQIwH6rcSOszj651CxcBFZj-lwXQYOfphyaJByOuGwdsbkr4qbSisDt9Nna5dh7mnhGLQlQVPopudfdKTQCjR3TUdR1AOsLnax3vRLk6ogmiex2hiyHobTnaFFsvaGVAXpEKlkuzlHZVGNyx1Elh4ORAeNMM=s400-no",
           shortDescription: "Consectetur adipiscing elit",
           longDescription:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
@@ -71,7 +71,7 @@ class MockRepository extends Repository {
       TeamMember(
           firstName: "Omar",
           lastName: "Al Bukhari",
-          pictureUrl: "",
+          pictureUrl: "https://lh3.googleusercontent.com/KdS2kXFw74fDh66RifuKvYa45n5AG0G9k7Z7L6p_RwAObvJiXt9-Rk_fubboVyKodFa93FbbMyRbi6QCOgVRbb7LRjHIbYVso_B1DXSHY4NJnT2WKDIDf9Hha-eB1vS2Tjytyrh0VB6uGSYkFckcbF3Fda1ZhGWaQNvOVCHHk9piEQ_QoUGthAyBfJym6-zJqxE_XZar6M1hocOrkGh1lLS4xEei0NrWwL6QMaaDP0e5jIyN3R7A3blICin6-l-7b-MtQCT0BeZtGt85OXa7-TefYwQCJhENu4k2sdJGJk4ntfwOR33ukpqk8kL0yZq_3ds---ymC6dMfpqB7gBDoBrQVk9H3AWr51mEXw6mqLibYze03-QkDaPQcpmDIwZpmu74VbvjlPsj0N_85ZNO-8rt_M51uTDbkGaRMG6MFHHimbDbOyiYGsaLKaFnMebgmHTlParyLRm0BZQCSLa8E-oHGQroqKYbN5ek7xuY7jTjl5cXcyNyUrixKX0OoShhSu3avSLMLGc7dgKfVONMrqakRb1RbBv3Pqq0dJNMdrVUQYqLajgSXjSzWm6_2tkzjFTa3pr1iupMoTL-mcFCG2WDdaa2Arn6Y4U3fhvuLi5NicAg8uV_kj7tOFZNR11lVZEez_u1qvAqWfhBSUOE9fcR2ZEJaIrV718Zij8K3fuNf26ppGgeq9k=s200-no",
           shortDescription: "Excepteur sint occaecat cupidatat non proident",
           longDescription:
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
